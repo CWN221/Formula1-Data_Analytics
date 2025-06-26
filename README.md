@@ -4,6 +4,10 @@
 
 Welcome! This project focuses on analyzing data from the **Formula 1 World Championship**, one of the most iconic and widely followed motorsport competitions in the world. It includes race results, qualifying stats, sprint races, and driver insights — all compiled to uncover trends and performance patterns over recent F1 seasons.
 
+This is also part of my broader data science practice, where I apply techniques like data wrangling, visualization, and analysis using tools such as **Python**, **pandas**, **NumPy**, and **Matplotlib**.
+
+---
+
 ## 📁 Data Sources
 
 The datasets used in this project were originally compiled by [toUpperCase78](https://github.com/toUpperCase78) and are based on information from:
@@ -11,9 +15,13 @@ The datasets used in this project were originally compiled by [toUpperCase78](ht
 - The official [Formula 1 website](https://www.formula1.com/)
 - Driver ratings from Codemasters / EA Sports F1 video games ([link](https://www.ea.com/games/f1/driver-ratings?isLocalized=true))
 
-### 🙏 Credits
+---
+
+## 🙏 Credits
 
 Special thanks to **toUpperCase78** for gathering and maintaining this rich collection of F1 data. If you plan to reuse or extend this work, please make sure to credit the original dataset creator accordingly.
+
+---
 
 ## 📦 Datasets Included
 
@@ -26,6 +34,8 @@ Special thanks to **toUpperCase78** for gathering and maintaining this rich coll
 - **Driver of the Day Votes**: 2022–2024
 - **Driver Ratings** from F1 2020–F1 23 games
 
+---
+
 ## 📈 Season Analyses
 
 Season breakdowns and insights will be available for select years. Completed analyses so far:
@@ -36,8 +46,10 @@ Season breakdowns and insights will be available for select years. Completed ana
 
 _(More coming soon...)_
 
+---
+
 ## 🔮 Future Work
 
 I'm actively updating data for the 2025 season as new races are completed. Older seasons may also be revisited to enhance visual quality and analysis depth.
 
-Stay tuned — and enjoy diving into the data behind the fastest sport on Earth!
+This project also serves as a data science practice space where I’ll continue adding new projects, visualizations, and modeling exercises.got
