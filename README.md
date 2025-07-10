@@ -43,6 +43,7 @@ Season breakdowns and insights will be available for select years. Completed ana
 | F1 Season Analyses |
 |--------------------|
 | [F1 2024 Season Analysis](F1-2024_Analysis.ipynb) |
+| [F1 2023 Season Analysis](F1-2023_Analysis.ipynb) |
 
 _(More coming soon...)_
 
